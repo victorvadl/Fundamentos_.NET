@@ -25,24 +25,24 @@ calc.RaizQuadrada(9);
 
 
 
-List<string> listaString = new List<string>();
+// List<string> listaString = new List<string>();
 
-listaString.Add("SP");
-listaString.Add("BA");
-listaString.Add("MG");
+// listaString.Add("SP");
+// listaString.Add("BA");
+// listaString.Add("MG");
 
 
-Console.WriteLine("Percorrendo a lista com o FOR");
-for(int contador = 0; contador < listaString.Count; contador++)
-{
-  Console.WriteLine(listaString[contador]);
-}
+// Console.WriteLine("Percorrendo a lista com o FOR");
+// for(int contador = 0; contador < listaString.Count; contador++)
+// {
+//   Console.WriteLine(listaString[contador]);
+// }
 
-Console.WriteLine("Percorrendo a lista com o FOREACH");
-foreach(string valor in listaString)
-{
-  Console.WriteLine(valor);
-}
+// Console.WriteLine("Percorrendo a lista com o FOREACH");
+// foreach(string valor in listaString)
+// {
+//   Console.WriteLine(valor);
+// }
 
 
 
